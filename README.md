@@ -2,4 +2,5 @@
 
 # Composition API + tailwindCSS
 
-A small Todo App using using vue3, composition Api and Tailwind3 to build up! :D
+A small Todo App using vue3, composition Api and Tailwind3 to build up! 
+:D
